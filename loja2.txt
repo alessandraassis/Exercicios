@@ -1,0 +1,7 @@
+Leader
+Moletom; 99.99; 10
+Shorts; 60.00; 12
+Jaqueta; 200.00; 20
+Vestido; 160.00; 3
+Calça Jeans; 150.00; 30
+Camiseta Básica; 49.90; 25

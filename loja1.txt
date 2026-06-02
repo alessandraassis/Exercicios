@@ -1,0 +1,7 @@
+Casas Bahia
+Smartphone Samsung; 1999.99; 10
+Tablet; 1200.00; 10
+Caixa de Som; 350.00; 20
+Smart TV 50; 2800.99; 3
+Teclado Mecânico; 300.00; 30
+Geladeira; 2500.00; 5
